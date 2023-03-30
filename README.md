@@ -1,2 +1,2 @@
-# Java-Assignment-pwskills
-PW skills Assignments
+# 💫 Assignment Submission:
+Java with DSA and system design
