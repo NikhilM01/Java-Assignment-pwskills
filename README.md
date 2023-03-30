@@ -1,7 +1,7 @@
 # 💫 Assignment Submission:
 Java with DSA and system design
 
-* Fundamentals of Computer Science
+* Fundamentals of Computer Science [x] 
 * Learning OS
 * Version Control System and Git
 * Getting Started with JAVA
