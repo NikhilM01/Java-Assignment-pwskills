@@ -11,6 +11,17 @@ public class Test8 {
         System.out.println(s1);
         System.out.println(s2);
 
+
+        // Final vs Immutability
+        final int a=10;
+       // a=20;   error
+        System.out.println(a);
+        final StringBuffer sb=new StringBuffer("Virat");
+        sb.append("kohli");
+        // System.out.println(sb);
+       // sb=new StringBuffer("Sachin");  error
+        System.out.println(sb);
+
     }
 
 }
