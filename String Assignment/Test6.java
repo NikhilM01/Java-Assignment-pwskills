@@ -42,6 +42,6 @@ public class Test6 {
 
 
 // Output
-// Enter the string 1 :  SChool Master
+// Enter the string 1 : SChool Master
 // Enter the string 2 : The Classroom
 // Given string is Anagram
